@@ -1,0 +1,54 @@
+
+-falta:
+	bds (teste)
+		ver horario de 21:30 a 21:40
+		entrar (prcourar sage1.png e sage2.png)
+		clicar pra entrar auto (959,788)
+		signup (1242,784)
+		esperar achaar o fim de alguma batalha (chamando o Auto2x enquanto isso)(bdsLoose,
+		dar esc pra sair
+		
+	chegada do campeao
+
+	ggn(teste)
+		verificar horario + dia
+		entrar evento ggn.png ggn2.png
+		participation
+		esperar achar ggnAnbu.png
+		clicar 957 579
+		wait 3
+`		clicar 852 370
+		#trocar de time
+		prcourar e clicar ggnLineup.png
+		wait + clicar 548 299
+		esc
+		#
+		ficar dando 2x ate achar ggnClosed.png
+		clica 1635 132 pra fechar aba
+		espera 10 15 e faz de nvo
+		deliga pc
+		
+	ilusao infinita (teste)
+
+	gato (teste)
+		entrar gato.png gato2.png
+		espera achar gatoSplash.png
+		click 903 583
+		espera achar gatoSupport e clica, clica gatoSupportConfirm
+		clica gatoSignup (sleep(1) clcia de novo nessa posicao)
+		clica 1819 102
+		clica 1373 561
+
+		verificar horari
+	
+	adicionar novos baus
+
+	ajeitar fg
+
+	ajeitar rich field (+ adicionar a fase de comida)
+
+	wanted mission
+	
+	arruma nine tails ( imagem do hokage suporte?)
+	
+	ARRUMAR CONFIGS PRA TRANCA LVL

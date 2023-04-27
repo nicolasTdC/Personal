@@ -1,0 +1,35 @@
+Checkmitusri
+
+
+Entrar evento
+
+SignUp
+
+Esoclher 9 Ninjas (3 linhas de 4 coluans)
+x= 628 765 943 1112 1267
+y = 507 578 653
+
+Confirmar (978,813)
+
+
+loop 3 *
+
+*
+arrastar ninjas pra comp
+posicao pra pegar :
+x: 368
+y = 372, 448, 526, 620
+
+posicao pra arrastar:
+x= 837,715
+y= 511, 568, 653
+
+find battle
+
+wait win/loss
+colocando auto
+*
+
+confirm
+confirm2
+

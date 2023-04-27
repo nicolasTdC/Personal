@@ -1,0 +1,65 @@
+##CONVOY PLUNDER
+
+> clicar botao dos eventos
+> procurar convoy plunder
+> verificar se há recompensas
+	> se sim
+		> participar
+		> procurar SS	
+			> se nao achar
+				> refrescar
+				> repetir procura			
+			> se achar		
+				> clamar e chamar suporte (3 pedidos)
+				> esperar um pouco
+				> set off
+				> esperar um pouco
+				> clamar recompensa			
+		> clicar botao dos eventos
+		> procurar convoy plunder
+		> participar
+		> procurar S
+			> se nao achar
+				> procurar A
+					> se nao achar
+						> refrescar
+						> repetir procura
+					> se achar		
+						> clamar e chamar suporte(3 pedidos)
+						> esperar um pouco
+						> set off
+						> esperar um pouco
+						> clamar recompensa 
+					
+			> se achar		
+				> clamar e chamar suporte(3 pedidos)
+				> esperar um pouco
+				> set off
+				> esperar um pouco
+				> clamar recompensa 
+		> clicar botao dos eventos
+		> procurar convoy plunder
+		> participar
+		> procurar S
+			> se nao achar
+				> procurar A
+					> se nao achar
+						> refrescar
+						> repetir procura
+					> se achar		
+						> clamar e chamar suporte(3 pedidos)
+						> esperar um pouco
+						> set off
+						> esperar um pouco
+						> clamar recompensa 
+			> se achar		
+				> clamar e chamar suporte(3 pedidos)
+				> esperar um pouco
+				> set off
+				> esperar um pouco
+				> clamar recompensa 
+	> se nao 
+		fechar
+END
+
+	
